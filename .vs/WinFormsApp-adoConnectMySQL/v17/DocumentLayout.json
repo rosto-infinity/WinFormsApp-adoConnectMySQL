@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB4E9F4-16D3-49AD-9B08-11854F221221}|WinFormsApp-adoConnectMySQL.csproj|c:\\users\\rosto\\desktop\\ado.net-cours\\winformsapp-adoconnectmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB4E9F4-16D3-49AD-9B08-11854F221221}|WinFormsApp-adoConnectMySQL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB4E9F4-16D3-49AD-9B08-11854F221221}|WinFormsApp-adoConnectMySQL.csproj|c:\\users\\rosto\\desktop\\ado.net-cours\\winformsapp-adoconnectmysql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CB4E9F4-16D3-49AD-9B08-11854F221221}|WinFormsApp-adoConnectMySQL.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB4E9F4-16D3-49AD-9B08-11854F221221}|WinFormsApp-adoConnectMySQL.csproj|c:\\users\\rosto\\desktop\\ado.net-cours\\winformsapp-adoconnectmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB4E9F4-16D3-49AD-9B08-11854F221221}|WinFormsApp-adoConnectMySQL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 146,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:33:07.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:31:32.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\rosto\\Desktop\\ADO.Net-cours\\WinFormsApp-adoConnectMySQL\\Form1.cs [Conception]",
+              "RelativeToolTip": "Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:27:57.23Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
